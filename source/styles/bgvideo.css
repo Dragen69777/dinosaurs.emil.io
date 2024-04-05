@@ -1,0 +1,22 @@
+.drgif {
+    height: 70vh;
+    width: 100%;
+    position: relative;
+    display: flex;
+}
+
+.drgif img {
+    height: 70vh;
+    width: 100%;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+}
+
+.h1-text {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgba(135, 136, 134, 0.496);
+}
